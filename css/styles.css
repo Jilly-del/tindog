@@ -160,4 +160,6 @@ P {
 		transform: rotate(0);
 		width: 50%;
 	}
+
+	#cta .big-heading {font-size: 2rem;}
 }
